@@ -46,5 +46,3 @@ sudo systemctl status httpd
 ls /var/www/html/
 
 echo "added new line to this file"
-
-echo "added second line"
